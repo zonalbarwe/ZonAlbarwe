@@ -31,21 +31,16 @@ REFERERS = [
 # APNE MULTIPLE TARGET LINKS YAHAN DAALEIN
 # ==========================================
 TARGET_URLS = [
-"https://ouo.io/UqkAbN",
-"https://ouo.io/4wmULK",
-"https://ouo.io/vhcWh4",
-"https://ouo.io/wiXHnHV",
-"https://ouo.io/y5uEZr",
-"https://ouo.io/wiXHnHV",
-"https://ouo.io/hYMPGs",
-"https://ouo.io/qPRPg1",
-"https://ouo.io/q5aykg",
-"https://ouo.io/iFfZoGd",
-"https://ouo.io/2wWoHfD",
-"https://ouo.io/Je2uk7",
-"https://ouo.io/Je2uk7",
-"https://ouo.io/2wWoHfD",
-"https://ouo.io/DyLi0d"
+"https://ouo.io/4ZY8rI",
+"https://ouo.io/dnyXUc",
+"https://ouo.io/7Eqku9w",
+"https://ouo.io/CeqFDN",
+"https://ouo.io/UPO9gI",
+"https://ouo.io/SWlJvg",
+"https://ouo.io/SWlJvg",
+"https://ouo.io/SWlJvg",
+"https://ouo.io/UPO9gI",
+"https://ouo.io/PrFNQFS"
 ]
 
 def fetch_and_filter_free_proxies():
